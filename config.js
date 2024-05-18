@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['917605902011', 'GURU', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['923429447356', '@Mr_HiddenX', true], ['923400449505', 'Danish😠', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011', '32460248586']
-global.prems = ['917605902011', '32460248586', '919398758484']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['923429447356', '923400449505']
+global.prems = ['923429447356', '923400449505', '923020905958']
+global.allowed = ['923429447356', '923400449505', '923020905958']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -53,16 +53,16 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ ʜɪᴅᴅᴇɴx-ᴍᴅ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.packname = '@𝐌𝐫_𝐇𝐢𝐝𝐝𝐞𝐧𝐗'
+global.author = '+𝟗𝟐𝟑𝟒𝟐𝟗𝟒𝟒𝟕𝟑𝟓𝟔'
+global.menuvid = 'https://i.imgur.com/TnXtnlC.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/mr_hiddenx1\n'
+global.dygp = 'https://chat.whatsapp.com/F6SfoiNYw2q8sbcQW1lvWs'
+global.fgsc = 'https://github.com/LukeDament/GURU-BOT'
+global.fgyt = 'https://youtube.com/@Mr_HiddenX'
+global.fgpyp = 'https://youtube.com/@ibadullah2094'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
