@@ -23,7 +23,7 @@ let handler = async (m, { conn, usedPrefix, args, command, text }) => {
     const mediaType = mediaData.type
     const mediaURL = mediaData.url_download
 
-    let cap = `HERE IS THE ${mediaType.toUpperCase()} >,<`
+    let cap = `HERE IS THE ${mediaType.toUpperCase()} _*@𝐌𝐫_𝐇𝐢𝐝𝐝𝐞𝐧𝐗𝟏*_ >,<`
 
     if (mediaType === 'video') {
       conn.sendFile(m.chat, mediaURL, 'instagram.mp4', cap, m)
