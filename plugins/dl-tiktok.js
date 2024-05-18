@@ -8,7 +8,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
   if (!args[0] && !m.quoted) throw `Give the link of the video Tiktok or quote a tiktok link`
   if (!args[0].match(/tiktok/gi)) throw `Verify that the link is from TikTok`
 
-  let txt = 'Here your Requested video'
+  let txt = 'Here your Requested video DL by: _*@𝐌𝐫_𝐇𝐢𝐝𝐝𝐞𝐧𝐗*_ 🫀'
 
   try {
     const {
